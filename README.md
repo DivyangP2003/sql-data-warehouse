@@ -23,6 +23,9 @@ The data architecture for this project follows the **Medallion Architecture** wi
    Contains business-ready data structured in a **star schema**, optimized for reporting and advanced analytics.
 
 ---
+## 📋 Project Workflow
+A detailed project workflow and step-by-step guide are available in [workflow.pdf](docs/workflow.pdf).
+---
 ## 📖 Project Overview
 
 This project demonstrates a complete data warehousing and analytics workflow, including:
