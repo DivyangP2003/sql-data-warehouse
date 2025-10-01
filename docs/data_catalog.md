@@ -68,7 +68,7 @@ It is structured into **dimension tables** and **fact tables**, enabling efficie
 
 Below is the visual representation of the Gold Layer data model:
 
-![Gold Layer ERD](/data_model.png)
+![Gold Layer ERD](/docs/data_model.png)
 
 ---
 ✅ **This Gold Layer model ensures consistent reporting, traceability, and structured analytics across dimensions and facts.**
