@@ -88,10 +88,10 @@ data-warehouse-project/
 ├── datasets/                           # Raw datasets used (ERP and CRM data)
 │
 ├── docs/                               # Project documentation and architecture details
-│   ├── data_architecture.drawio        # Whimsical file shows the project's architecture
+│   ├── data_architecture.png           # Whimsical file shows the project's architecture
 │   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
-│   ├── data_flow.drawio                # Whimsical file for the data flow diagram
-│   ├── data_models.drawio              # Whimsical file for data models (star schema)
+│   ├── data_flow.png                   # Whimsical file for the data flow diagram
+│   ├── data_models.dpng                # Whimsical file for data models (star schema)
 │   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
 │
 ├── scripts/                            # SQL scripts for ETL and transformations
