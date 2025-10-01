@@ -96,6 +96,7 @@ data-warehouse-project/
 │   ├── data_flow.png                   # Whimsical file for the data flow diagram
 │   ├── data_models.dpng                # Whimsical file for data models (star schema)
 │   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
+|   ├── workflow.pdf                    # Notion template workflow to map progress of project
 │
 ├── scripts/                            # SQL scripts for ETL and transformations
 │   ├── bronze/                         # Scripts for extracting and loading raw data
