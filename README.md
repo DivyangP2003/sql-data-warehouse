@@ -54,7 +54,7 @@ Everything is for Free!
 - **[Git Repository](https://github.com/):** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
 - **[Whimsical](https://whimsical.com/):** Design data architecture, models, flows, and diagrams.
 - **[Notion](https://www.notion.com/):** All-in-one tool for project management and organization.
-
+- **[Notion Project Steps](https://www.notion.so/Data-Warehouse-Project-c0c4d030c269481d916073859f1f76b0?source=copy_link):** Access to All Project Phases and Tasks.
 ---
 
 ## 🚀 Project Requirements
